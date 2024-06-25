@@ -28,10 +28,10 @@ I'm Homa Shafiei, an Android Developer who loves making awesome apps. Welcome to
 
 ## Let's Connect! 🌟
 
-- Let's link up on [LinkedIn] (https://www.linkedin.com/in/homa-shafiei/)
-- Follow my ramblings on [Virgool] (https://virgool.io/@HomaShafiei)
-- Drop me a message on [Telegram] (https://t.me/ShafieiHoma)
-- Shoot me an email at [homa.shafiei.dev@gmail.com] (homa.shafiei.dev@gmail.com)
+- Let's link up on [LinkedIn](https://www.linkedin.com/in/homa-shafiei/)
+- Follow my ramblings on [Virgool](https://virgool.io/@HomaShafiei)
+- Drop me a message on [Telegram](https://t.me/ShafieiHoma)
+- Shoot me an email at [homa.shafiei.dev@gmail.com](homa.shafiei.dev@gmail.com)
 
 
 
