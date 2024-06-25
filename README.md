@@ -1,8 +1,19 @@
 ## Hi there 👋
 
+I'm Homa Shafiei, an Android Developer who loves making awesome apps. Welcome to my GitHub!
+
+
+## Academic Background 🌱
+
+- Master of Software Engineering, Ferdowsi University of Mashhad | 2014 – 2017
+     • Thesis: Determination the Optimal Energy-Efficient Operating Points for Phoenix++
+  
+- Bachelor of Hardware Engineering, Ferdowsi University of Mashhad | 2010 - 2014
+     • Thesis: Develop File Manager on the SD Card for ARM board. (Top Student)
+
+
 - 🔭 I’m currently working on Part Software Group as An Android developer
 - 🌱 I’m currently learning Kotlin multiplatform
-- 📫 I Graduated with a Master's in Software Engineering from Ferdowsi University of Mashhad, focusing on optimizing energy-efficient operating points for [Phoenix++](https://ieeexplore.ieee.org/document/8167888) in my thesis.
 
 
 <!--
