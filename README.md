@@ -5,7 +5,7 @@ I'm Homa Shafiei, an Android Developer who loves making awesome apps. Welcome to
 - 🔭 I’m currently working on Part Software Group
 - 🌱 I’m currently learning Kotlin multiplatform
 - 👀 I’m interested in programing and learning
-- 🌱 I’m android developer with +8 years experience
+- 😄 I’m android developer with +8 years experience
 - 📫 How to reach me [https://www.linkedin.com/in/homa-shafiei/](https://www.linkedin.com/in/homa-shafiei/)
 
 
