@@ -10,15 +10,15 @@ I'm Homa Shafiei, an Android Developer who loves making awesome apps. Welcome to
 
 ## My Skills 🧰
 
-Android Development
-Kotlin
-Java
-Dart
-XML
-Jetpack Compose
-MVVM/MVI Architecture
-Test
-Git
+- Android Development
+- Kotlin
+- Java
+- Dart
+- XML
+- Jetpack Compose
+- MVVM/MVI Architecture
+- Test
+- Git
 
 ## Academic Background 🌱
 
