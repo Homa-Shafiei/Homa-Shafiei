@@ -8,6 +8,17 @@ I'm Homa Shafiei, an Android Developer who loves making awesome apps. Welcome to
 - 😄 I’m android developer with +8 years experience
 - 📫 How to reach me [https://www.linkedin.com/in/homa-shafiei/](https://www.linkedin.com/in/homa-shafiei/)
 
+## My Skills 🧰
+
+Android Development
+Kotlin
+Java
+Dart
+XML
+Jetpack Compose
+MVVM/MVI Architecture
+Test
+Git
 
 ## Academic Background 🌱
 
